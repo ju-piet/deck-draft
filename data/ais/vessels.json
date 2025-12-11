@@ -1,43 +1,156 @@
 [
     {
-      "name": "Cargo 1",
-      "mmsi": "123456789",
-      "type": "cargo_vessel",
-      "heading": 45,
-      "speed": 12.3,
-      "coordinates": [2.35, 48.85]
+        "name": "Cargo North Atlantic 1",
+        "mmsi": "111000001",
+        "type": "cargo_vessel",
+        "heading": 260,
+        "speed": 14.2,
+        "coordinates": [
+            -30.0,
+            48.0
+        ]
     },
     {
-      "name": "Highspeed 1",
-      "mmsi": "987654321",
-      "type": "highspeed",
-      "heading": 90,
-      "speed": 25.0,
-      "coordinates": [5.37, 43.30]
+        "name": "Cargo North Atlantic 2",
+        "mmsi": "111000002",
+        "type": "cargo_vessel",
+        "heading": 80,
+        "speed": 13.5,
+        "coordinates": [
+            -20.0,
+            50.0
+        ]
     },
     {
-      "name": "Passenger ship 1",
-      "mmsi": "111222333",
-      "type": "passengers_ship",
-      "heading": 135,
-      "speed": 18.0,
-      "coordinates": [-3.0, 47.5]
+        "name": "Highspeed Biscay 1",
+        "mmsi": "222000001",
+        "type": "highspeed",
+        "heading": 190,
+        "speed": 28.0,
+        "coordinates": [
+            -8.5,
+            45.0
+        ]
     },
     {
-      "name": "Special craft 1",
-      "mmsi": "444555666",
-      "type": "special_craft",
-      "heading": 270,
-      "speed": 5.0,
-      "coordinates": [10.0, 45.0]
+        "name": "Highspeed Canary 1",
+        "mmsi": "222000002",
+        "type": "highspeed",
+        "heading": 350,
+        "speed": 26.5,
+        "coordinates": [
+            -16.0,
+            28.5
+        ]
     },
     {
-      "name": "Unknown",
-      "mmsi": "000000000",
-      "type": "unspecified",
-      "heading": 0,
-      "speed": 0.0,
-      "coordinates": [0.0, 0.0]
+        "name": "Passenger North Sea",
+        "mmsi": "333000001",
+        "type": "passengers_ship",
+        "heading": 210,
+        "speed": 18.3,
+        "coordinates": [
+            -4.0,
+            60.0
+        ]
+    },
+    {
+        "name": "Passenger Azores",
+        "mmsi": "333000002",
+        "type": "passengers_ship",
+        "heading": 120,
+        "speed": 17.1,
+        "coordinates": [
+            -26.0,
+            38.5
+        ]
+    },
+    {
+        "name": "Special Mission 1",
+        "mmsi": "444000001",
+        "type": "special_craft",
+        "heading": 145,
+        "speed": 12.0,
+        "coordinates": [
+            -15.0,
+            55.0
+        ]
+    },
+    {
+        "name": "Special Mission 2",
+        "mmsi": "444000002",
+        "type": "special_craft_2",
+        "heading": 320,
+        "speed": 11.4,
+        "coordinates": [
+            -5.0,
+            52.0
+        ]
+    },
+    {
+        "name": "Survey Vessel 1",
+        "mmsi": "444000003",
+        "type": "special_craft_3",
+        "heading": 30,
+        "speed": 9.2,
+        "coordinates": [
+            -40.0,
+            42.0
+        ]
+    },
+    {
+        "name": "Survey Vessel 2",
+        "mmsi": "444000004",
+        "type": "special_craft_4",
+        "heading": 200,
+        "speed": 8.7,
+        "coordinates": [
+            -35.0,
+            35.0
+        ]
+    },
+    {
+        "name": "Unspecified Drifter 1",
+        "mmsi": "555000001",
+        "type": "unspecified",
+        "heading": 90,
+        "speed": 1.5,
+        "coordinates": [
+            -10.0,
+            40.0
+        ]
+    },
+    {
+        "name": "Unspecified Drifter 2",
+        "mmsi": "555000002",
+        "type": "unspecified",
+        "heading": 270,
+        "speed": 0.8,
+        "coordinates": [
+            -25.0,
+            45.0
+        ]
+    },
+    {
+        "name": "WIG Experimental 1",
+        "mmsi": "666000001",
+        "type": "wig",
+        "heading": 60,
+        "speed": 35.0,
+        "coordinates": [
+            -50.0,
+            30.0
+        ]
+    },
+    {
+        "name": "WIG Experimental 2",
+        "mmsi": "666000002",
+        "type": "wig_2",
+        "heading": 240,
+        "speed": 33.5,
+        "coordinates": [
+            -45.0,
+            25.0
+        ]
     }
-  ]
-  
+]
