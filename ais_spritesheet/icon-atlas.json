@@ -1,0 +1,82 @@
+{
+  "cargo_vessel": {
+    "x": 0,
+    "y": 0,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "highspeed": {
+    "x": 0,
+    "y": 35,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "passengers_ship": {
+    "x": 0,
+    "y": 70,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "special_craft": {
+    "x": 0,
+    "y": 105,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "special_craft_2": {
+    "x": 0,
+    "y": 140,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "special_craft_3": {
+    "x": 0,
+    "y": 175,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "special_craft_4": {
+    "x": 0,
+    "y": 210,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "unspecified": {
+    "x": 0,
+    "y": 245,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "wig": {
+    "x": 0,
+    "y": 280,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  },
+  "wig_2": {
+    "x": 0,
+    "y": 315,
+    "width": 17,
+    "height": 35,
+    "anchorY": 35,
+    "mask": false
+  }
+}

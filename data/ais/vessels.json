@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Cargo 1",
+      "mmsi": "123456789",
+      "type": "cargo_vessel",
+      "heading": 45,
+      "speed": 12.3,
+      "coordinates": [2.35, 48.85]
+    },
+    {
+      "name": "Highspeed 1",
+      "mmsi": "987654321",
+      "type": "highspeed",
+      "heading": 90,
+      "speed": 25.0,
+      "coordinates": [5.37, 43.30]
+    },
+    {
+      "name": "Passenger ship 1",
+      "mmsi": "111222333",
+      "type": "passengers_ship",
+      "heading": 135,
+      "speed": 18.0,
+      "coordinates": [-3.0, 47.5]
+    },
+    {
+      "name": "Special craft 1",
+      "mmsi": "444555666",
+      "type": "special_craft",
+      "heading": 270,
+      "speed": 5.0,
+      "coordinates": [10.0, 45.0]
+    },
+    {
+      "name": "Unknown",
+      "mmsi": "000000000",
+      "type": "unspecified",
+      "heading": 0,
+      "speed": 0.0,
+      "coordinates": [0.0, 0.0]
+    }
+  ]
+  
