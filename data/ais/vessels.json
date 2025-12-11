@@ -8,7 +8,20 @@
         "coordinates": [
             -30.0,
             48.0
-        ]
+        ],
+        "renderingProperties": {
+            "c": "-16, 51.897554",
+            "g": "221525ZJUL2015",
+            "n": "N1",
+            "b": "70",
+            "a": "A",
+            "d": "New York",
+            "f": "06161602ZAOU2015",
+            "l": "Navire 18232",
+            "e": "E",
+            "i": "I",
+            "t": "T"
+        }
     },
     {
         "name": "Cargo North Atlantic 2",
@@ -19,7 +32,13 @@
         "coordinates": [
             -20.0,
             50.0
-        ]
+        ],
+        "renderingProperties": {
+            "c": "12.45W",
+            "g": "122200ZJAN2023",
+            "n": "NA2",
+            "b": "55"
+        }
     },
     {
         "name": "Highspeed Biscay 1",
@@ -30,7 +49,12 @@
         "coordinates": [
             -8.5,
             45.0
-        ]
+        ],
+        "renderingProperties": {
+            "e": "E",
+            "i": "I",
+            "t": "T"
+        }
     },
     {
         "name": "Highspeed Canary 1",
@@ -52,7 +76,11 @@
         "coordinates": [
             -4.0,
             60.0
-        ]
+        ],
+        "renderingProperties": {
+            "d": "Bergen",
+            "f": "101010ZDEC2024"
+        }
     },
     {
         "name": "Passenger Azores",
@@ -74,7 +102,12 @@
         "coordinates": [
             -15.0,
             55.0
-        ]
+        ],
+        "renderingProperties": {
+            "c": "15E",
+            "g": "030300ZMAR2021",
+            "l": "Mission S-01"
+        }
     },
     {
         "name": "Special Mission 2",
@@ -96,7 +129,11 @@
         "coordinates": [
             -40.0,
             42.0
-        ]
+        ],
+        "renderingProperties": {
+            "n": "SV1",
+            "b": "12"
+        }
     },
     {
         "name": "Survey Vessel 2",
@@ -129,7 +166,10 @@
         "coordinates": [
             -25.0,
             45.0
-        ]
+        ],
+        "renderingProperties": {
+            "t": "T"
+        }
     },
     {
         "name": "WIG Experimental 1",
@@ -140,7 +180,11 @@
         "coordinates": [
             -50.0,
             30.0
-        ]
+        ],
+        "renderingProperties": {
+            "c": "WIG-C01",
+            "i": "I"
+        }
     },
     {
         "name": "WIG Experimental 2",
