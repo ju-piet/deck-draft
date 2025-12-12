@@ -4,8 +4,7 @@
     "y": 0,
     "width": 5,
     "height": 42,
-    "anchorX": 2.5,
-    "anchorY": 42,
+    "anchorY": 17,
     "mask": false
   },
   "speed_medium": {
@@ -13,8 +12,7 @@
     "y": 42,
     "width": 5,
     "height": 28,
-    "anchorX": 2.5,
-    "anchorY": 28,
+    "anchorY": 17,
     "mask": false
   },
   "speed_slow": {
@@ -22,8 +20,7 @@
     "y": 70,
     "width": 5,
     "height": 18,
-    "anchorX": 2.5,
-    "anchorY": 18,
+    "anchorY": 17,
     "mask": false
   }
 }
