@@ -32,7 +32,6 @@
     "y": 140,
     "width": 17,
     "height": 35,
-    "anchorY": 35,
     "mask": false
   },
   "special_craft_3": {
@@ -40,7 +39,6 @@
     "y": 175,
     "width": 17,
     "height": 35,
-    "anchorY": 35,
     "mask": false
   },
   "special_craft_4": {
@@ -48,7 +46,6 @@
     "y": 210,
     "width": 17,
     "height": 35,
-    "anchorY": 35,
     "mask": false
   },
   "unspecified": {
@@ -56,7 +53,6 @@
     "y": 245,
     "width": 17,
     "height": 35,
-    "anchorY": 35,
     "mask": false
   },
   "wig": {
@@ -64,7 +60,6 @@
     "y": 280,
     "width": 17,
     "height": 35,
-    "anchorY": 35,
     "mask": false
   },
   "wig_2": {
@@ -72,7 +67,6 @@
     "y": 315,
     "width": 17,
     "height": 35,
-    "anchorY": 35,
     "mask": false
   }
 }
