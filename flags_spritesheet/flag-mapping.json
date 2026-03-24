@@ -1,0 +1,142 @@
+{
+  "ar": {
+    "x": 0,
+    "y": 0,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "au": {
+    "x": 32,
+    "y": 0,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "br": {
+    "x": 64,
+    "y": 0,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "ca": {
+    "x": 96,
+    "y": 0,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "cn": {
+    "x": 128,
+    "y": 0,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "de": {
+    "x": 0,
+    "y": 32,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "eu": {
+    "x": 32,
+    "y": 32,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "fr": {
+    "x": 64,
+    "y": 32,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "gb": {
+    "x": 96,
+    "y": 32,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "id": {
+    "x": 128,
+    "y": 32,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "in": {
+    "x": 0,
+    "y": 64,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "it": {
+    "x": 32,
+    "y": 64,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "jp": {
+    "x": 64,
+    "y": 64,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "kr": {
+    "x": 96,
+    "y": 64,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "mx": {
+    "x": 128,
+    "y": 64,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "ru": {
+    "x": 0,
+    "y": 96,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "sa": {
+    "x": 32,
+    "y": 96,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "tr": {
+    "x": 64,
+    "y": 96,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "us": {
+    "x": 96,
+    "y": 96,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  },
+  "za": {
+    "x": 128,
+    "y": 96,
+    "width": 32,
+    "height": 32,
+    "mask": false
+  }
+}
